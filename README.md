@@ -35,15 +35,6 @@
 - A Biotech + AI-based experimental idea  
 - Competitive programming logic + DSA  
 
----
-
-<!-- Matrix Divider -->
-<p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="350" />
-</p>
-
----
-
 ## 🛠️ Tech Stack & Tools
 
 ### **Programming Languages**
@@ -56,10 +47,15 @@
   <img src="https://skillicons.dev/icons?i=react,nodejs,express" />
 </p>
 
-### **Databases**
+### 🗄️ Databases & Storage
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
 </p>
+
 
 ### **Tools & Platforms**
 <p align ="center">
@@ -80,15 +76,12 @@
 
 ## 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="mailto:rakeshjena@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-  <a href="https://instagram.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
 </p>
 
