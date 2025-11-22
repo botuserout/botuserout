@@ -28,24 +28,6 @@
 - ⚡ Fun fact: Scored **540+ in NEET 2023** but followed my passion for tech  
 - 🧭 Love working with new technologies and expanding skill horizons  
 
----
-
-<!-- Pixel Car Divider -->
-<p align="center">
-  <img src="https://media.giphy.com/media/Y00Qh1efWbCZG/giphy.gif" width="200" />
-</p>
-
----
-
-## 🎨 Pixel Avatar (Temporary Placeholder)
-<p align="center">
-  <img src="https://i.giphy.com/media/JIX9t2j0ZTN9S/giphy.webp" width="120">
-</p>
-
-> Replace this GIF with your own pixel avatar later if you want.
-
----
-
 ## 🔥 Now Learning / Now Building
 
 ### 🚀 **Currently Learning**
@@ -85,31 +67,9 @@
 </p>
 
 ### **Tools & Platforms**
-<p>
+<p align ="center">
   <img src="https://skillicons.dev/icons?i=github,git,linux,notion,vscode,idea" />
 </p>
-
----
-
-<!-- Pixel Car Again -->
-<p align="center">
-  <img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="350" />
-</p>
-
----
-
-## 🚀 Featured Projects
-
-### 🔥 **1. Full-Stack Web App (React + Node + MySQL)**
-A complete CRUD application with login, dashboard & real-time updates.
-
-### 🧬 **2. BioTech + CS Mini Research Tool**
-Building a small tool combining biology data patterns & ML models.
-
-### 📊 **3. Data Visualizer (Python + Jupyter Notebook)**
-Plots statistical and ML results with interactive charts.
-
-> Want, I can make these clickable with repo links.
 
 ---
 
@@ -122,18 +82,6 @@ Plots statistical and ML results with interactive charts.
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=botuserout&layout=compact&theme=tokyonight&hide_border=true&border_radius=20)
 
 </div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=botuserout&theme=juicyfresh&no-frame=true&no-bg=false&margin-w=5)
-
-</div>
-
----
 
 ## 🌐 Connect With Me
 
@@ -162,11 +110,6 @@ Plots statistical and ML results with interactive charts.
 
 <p align="center">
   ⭐ If you like my profile, consider giving a star to my repositories!  
-</p>
-
-<!-- Final Car Animation -->
-<p align="center">
-  <img src="https://media.giphy.com/media/V4NSR1NG2p0KeJJyr5/giphy.gif" width="350" />
 </p>
 
 
