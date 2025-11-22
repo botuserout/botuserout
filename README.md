@@ -1,12 +1,7 @@
-<!-- Neon Animated Header -->
-<p align="center">
-  <img src="https://media.giphy.com/media/26gsspf0C7uQAz7Su/giphy.gif" width="250" />
-</p>
-
-<!-- Pixel Car Animation Banner -->
-<p align="center">
-  <img src="https://media.giphy.com/media/V4NSR1NG2p0KeJJyr5/giphy.gif" width="350" />
-</p>
+<!-- Typing Intro (from Chijioke's guide) -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=600&height=100&color=00FF7F&duration=4000&lines=Hi+There!+👋;+I'm+Rakesh+Jena+(@botuserout)" />
+</h1>
 
 <!-- Holopin Badge Board -->
 [![An image of @botuserout's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/botuserout)](https://holopin.io/@botuserout)
