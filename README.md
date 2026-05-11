@@ -64,16 +64,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=botuserout&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=botuserout&layout=compact&theme=tokyonight&hide_border=true&border_radius=20)
-
-</div>
-
 ## 🌐 Connect With Me
 
 <p align="center">
