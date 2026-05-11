@@ -19,7 +19,7 @@
 - 👀 Curious learner exploring multi-tech domains  
 - 🌱 Currently learning Python & Full-Stack Development (Java + React)  
 - 💞️ Open to collaborate on **Biotech + CS projects** & Hackathons  
-- 🏆 Participated in **5+ hackathons** solving real-world problems  
+- 🏆 Participated in **15+ hackathons** solving real-world problems  
 - ⚡ Fun fact: Scored **540+ in NEET 2023** but followed my passion for tech  
 - 🧭 Love working with new technologies and expanding skill horizons  
 
